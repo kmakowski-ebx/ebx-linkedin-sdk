@@ -77,6 +77,10 @@ public enum ShareMediaCategory {
    *    * Represents shared content of various types that should be rendered in carousel format
    *    .Represents shared content that only contains topics.
    */
-  TOPIC;
-
+  TOPIC,
+  
+  /**
+   * Represents live video content https://www.linkedin.com/help/linkedin/answer/100223
+   */
+  LIVE_VIDEO
 }
