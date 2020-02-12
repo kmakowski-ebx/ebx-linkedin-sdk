@@ -17,6 +17,8 @@
 
 package com.echobox.api.linkedin.types.urn;
 
+
+// test test test
 /**
  * The enum Urn entity type.
  * @author clementcaylux 
